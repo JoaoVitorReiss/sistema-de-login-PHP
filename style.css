@@ -1,0 +1,32 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background-image: linear-gradient(to right, #371f50 , #7714E0);
+
+}
+header{
+    padding: 15px;
+
+}
+div{
+    text-align: right;
+}
+a{
+    text-align: right;
+}
+h1{
+    color: white;
+    margin-top: 10px;
+    
+}a{
+    color: white;
+    text-decoration: none;
+}
+#icon{
+    font-size: 25px;
+    padding: 11px;
+    background: rgba(255, 255, 255, 0.082);
+    border-radius: 50px;
+    
+}
