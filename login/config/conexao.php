@@ -14,10 +14,10 @@ $modo = 'producao'; # Troque essa variável para: 'producao' ou 'local'
 
 //CREDENCIAIS LOCAL (XAMPP..etc)
 if($modo =='local'){
-    $servidor ="localhost"; // Nome do servidor, geralmente e "localhost"
-    $usuario = "root";      // Nome do usuario, geralmente e "root"
-    $senha = "";            // Senha do banco de dados, geralmente e "";
-    $banco = "login";       // Nome do bando de dados, no nosso casso será "login" em localhost
+    $servidor ="";       // Nome do servidor, geralmente e "localhost"
+    $usuario = "";      // Nome do usuario, geralmente e "root"
+    $senha = "";       // Senha do banco de dados, geralmente e "";
+    $banco = "";      // Nome do bando de dados
 }
 
 //CREDENCIAIS PRODUÇÃO(on-line)
